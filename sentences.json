@@ -1,0 +1,17 @@
+{
+    "easy": [
+        "Hello my name is John Smith",
+        "Hey there do you want to play",
+        "Buddy chill I am typing something"
+    ],
+    "medium": [
+        "Hey there, I am ready for you. Come here!",
+        "Its me, the fastest typer here. Don't mess with me.",
+        "Well, what do we have here now? Oh okay."
+    ],
+    "hard": [
+        "Ouch! That did hurt a lot man, can we go a little bit easier, please?",
+        "This is really, really too long man. How can I write all this correctly?",
+        "I should have rather gone for the easier difficulties, because this is hard."
+    ]
+}
